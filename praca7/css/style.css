@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.kwadrat > div {
+	
+	background-color: gold;
+	width: 300px;
+	height: 300px;
+}
+.kwadrat-1 {
+	padding: 80px 40px 15px 5px;
+}
+.kwadrat-2 {
+	padding: 10px;
+}
+.kwadrat-3{
+    margin: 20px 30px 40px;
+}
+.kwadrat-4{
+    margin: 100px 50px;
+}
+.kwadrat-5{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+}
+.kwadrat-6{
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+.kwadrat-7{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+.kwadrat-8{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
